@@ -14,6 +14,14 @@
  Abdroid:
      
 1. Распаковать ZIP (README можно удалить)
-2. Экспортровать в приложение (смотреть gif ниже)
+2. Экспортровать в приложение (смотреть "ТЫК" ниже)
 3. Выбрать язык "Русский TMRU" в настройках.
-![gif](https://github.com/Timonion/TMRUstrings/assets/143124086/45e102b5-c9a0-4d03-b9e6-0995baf4b861)
+<details>
+  <summary>ТЫК</summary>
+&nbsp;
+ 
+![  (3)](https://github.com/Timonion/TMRUstrings/assets/143124086/c1aade28-e9c9-4ffc-a0bc-afbbc570b406)
+![  (1)](https://github.com/Timonion/TMRUstrings/assets/143124086/2ca53bb2-37eb-43d4-a56e-be911e18b829)
+![  (2)](https://github.com/Timonion/TMRUstrings/assets/143124086/b78ab674-2e5f-4908-af46-4a30c690eda6)
+
+</details>
