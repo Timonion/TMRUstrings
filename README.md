@@ -2,6 +2,8 @@
 
 **DOWNLOAD**: [Click this to download](../../archive/refs/heads/main.zip)
 
+**Перевод сырой и не доработанный от слова совсем, со временем всё починю(им), надеюсь...**
+
 ## Установка/Install
 
  ПК:
