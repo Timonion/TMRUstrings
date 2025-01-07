@@ -536,7 +536,7 @@
 <string id="1422">Использовать {00}</string>
 <string id="1423">Отмена</string>
 <string id="1424">Выкинуть предмет</string>
-<string id="1425">Нельзя обменять</string>
+<string id="1425">Необмениваемый</string>
 <string id="1426">Лечит HP: {00}</string>
 <string id="1427">Лечит HP: {00}%</string>
 <string id="1428">Изменение EV {00}: {01}</string>
@@ -547,7 +547,7 @@
 <string id="1433">За 40 драгоценных камней, меняет {STRING_110237}\nна {00}</string>
 <string id="1434">Мешает использованию атак, которые изменяют предметы в руках</string>
 <string id="1435">Вы уверены, что хотите использовать {00}?</string>
-<string id="1436">Нельзя держать {STRING_0}</string>
+<string id="1436">\{STRING_0} не может это держать</string>
 <string id="1440">Шанс ловли: {00}</string>
 <string id="1441">Минимальный шанс ловли: {00}</string>
 <string id="1442">Максимальный шанс ловли: {00}</string>
