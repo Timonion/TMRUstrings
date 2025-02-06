@@ -10,7 +10,7 @@
 ### Установка/Install 
 **СКАЧАТЬ**: [Последний релиз](https://github.com/Timonion/TMRUstrings/releases/tag/v0.1)
 
-1. Скачиваем .zip архив (Репозиторий)    
+1. Скачиваем TMRUstrings.zip архив (Репозиторий)    
 2. В меню игры открываем `...\Mod management\Import Mod` (На пк можно просто закинуть файл по пути `...\PokeMMO\data\mods`)
 3. Выбираем скаченный архив и активируем его после импорта.
 4. Выбрать язык "TMRU" в настройках игры `Settings\Language\Client Langguage`. (Если не активировалось автоматически)
