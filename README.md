@@ -8,7 +8,7 @@
 
 
 ### Установка/Install 
-**СКАЧАТЬ**: [Последний релиз](https://github.com/Timonion/TMRUstrings/releases/tag/v0.1)
+**СКАЧАТЬ**: [Последний релиз](https://github.com/Timonion/TMRUstrings/releases/latest)
 
 1. Скачиваем архив TMRUstrings.zip   
 2. В меню игры открываем `...\Mod management\Import Mod` (На пк можно просто закинуть файл по пути `...\PokeMMO\data\mods`)
