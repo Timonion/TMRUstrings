@@ -8,7 +8,7 @@
 
 
 ### Установка/Install 
-**СКАЧАТЬ**: [Нажмите чтобы скачать](../../archive/refs/heads/main.zip)
+**СКАЧАТЬ**: [Последний релиз](https://github.com/Timonion/TMRUstrings/releases/tag/v0.1)
 
 1. Скачиваем .zip архив (Репозиторий)    
 2. В меню игры открываем `...\Mod management\Import Mod` (На пк можно просто закинуть файл по пути `...\PokeMMO\data\mods`)
