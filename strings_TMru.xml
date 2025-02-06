@@ -7572,7 +7572,7 @@
 <string id="180024">Sassy</string> 
 
 
-<string id="181001">Чудовище</string>
+<string id="181001">Монстр</string>
 <string id="181002">Водный A</string>
 <string id="181003">Жук</string>
 <string id="181004">Летающий</string>
@@ -7588,6 +7588,23 @@
 <string id="181014">Дракон</string>
 <string id="181015">Не может размножаться</string>
 <string id="181016">Бесполый</string>
+
+<!-- <string id="181001">Monster</string> -->
+<!-- <string id="181002">Water A</string> -->
+<!-- <string id="181003">Bug</string> -->
+<!-- <string id="181004">Flying</string> -->
+<!-- <string id="181005">Field</string> -->
+<!-- <string id="181006">Fairy</string> -->
+<!-- <string id="181007">Plant</string> -->
+<!-- <string id="181008">Humanoid</string> -->
+<!-- <string id="181009">Water C</string> -->
+<!-- <string id="181010">Mineral</string> -->
+<!-- <string id="181011">Chaos</string> -->
+<!-- <string id="181012">Water B</string> -->
+<!-- <string id="181013">{STRING_150132}</string> -->
+<!-- <string id="181014">Dragon</string> -->
+<!-- <string id="181015">Cannot Breed</string> -->
+<!-- <string id="181016">Genderless</string> -->
 
 <string id="190000">ТРЕНЕР ПОКЕМОНОВ</string>
 <string id="190001">ТРЕНЕР ПОКЕМОНОВ</string>
