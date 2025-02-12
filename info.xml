@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resource author="Timonion(Абоба)" description="Перевод Покеммо на Русский язык. Сюжет не переведён. Имена покемонов, атак, способностей, предметов не переведены для удобства." name="TMRU strings" is_override="1" version="3" weblink="https://github.com/Timonion/TMRUstrings">
    <strings string_revision="1">
-      <string path="strings_TMru.xml"/>
+      <string path="TMRUstrings.xml"/>
   </strings>
 </resource>
