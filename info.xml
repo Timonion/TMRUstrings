@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<resource name="TMRU strings" version="5.2(16.07.2025)" description="Перевод Покеммо на Русский язык. Сюжет не переведён. Имена покемонов, атак, способностей, предметов не переведены для удобства." author="Timonion" weblink="https://forums.pokemmo.com/index.php?/topic/186715-ru-tmru-strings/">
+<resource name="TMRU strings" version="7.4(22.2.2026)" description="Перевод Покеммо на Русский язык. Имена покемонов, атак, способностей, предметов не переведены для удобства." author="Timonion" weblink="https://forums.pokemmo.com/index.php?/topic/186715-ru-tmru-strings/">
    <strings string_revision="1">
       <string path="TMRUstrings.xml"/>
+	  
 	  <string path="Kanto.xml"/>
 	  <string path="Hoenn.xml"/>
 	  <string path="Sinnoh.xml"/>
-	  <string path="White1.xml"/>
-	  <string path="White0.xml"/>
+	  <string path="Unova0.xml"/>
+	  <string path="Unova1.xml"/>
 	  <string path="Jhoto.xml"/>
   </strings>
+  <overlays>
+        <overlay path="data/sprites/atlas/"/>
+    </overlays>
 </resource>
